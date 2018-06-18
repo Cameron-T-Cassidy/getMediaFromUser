@@ -1,0 +1,1 @@
+Given an array of usernames (in getTweetIds), prints infomration about the users' tweets to a csv file. 
